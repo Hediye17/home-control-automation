@@ -16,7 +16,7 @@ public class main {
         while (true){
             System.out.println("wellcome to Home Control System");
             System.out.println("1=> Security Camera");
-            System.out.println("2=> Light Control");//her bir oda için ayrı yap
+            System.out.println("2=> Light Control");
             System.out.println("3=> Thermostat control");
             System.out.println("4=> Garden Irrigation System");
             System.out.println("Please make your choice.");
